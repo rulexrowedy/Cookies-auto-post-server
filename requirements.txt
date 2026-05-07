@@ -1,5 +1,5 @@
 streamlit
-selenium
+selenium==4.4.3
 cryptography
 webdriver-manager
 psutil
